@@ -1,10 +1,10 @@
 # Hi, I'm Mladen Jeremić 👋
 
-### Software Developer | Java • Spring Boot • Angular • Android • .NET
+### Software Developer | Java • Spring Boot • React • Angular • Android • .NET
 
-I'm an Information Technology student at the University of Novi Sad with hands-on experience in building web, mobile, and desktop applications.
+I'm an Information Technology graduate from the University of Novi Sad with hands-on experience in building web, mobile, and desktop applications.
 
-Since 2025, I have also been working on freelance software development projects, primarily focused on web applications, booking and appointment systems, e-commerce solutions, REST APIs, and business-oriented applications.
+I completed a Software Development Internship at Naovis, where I worked on a full-stack project management application using React, TypeScript, Spring Boot, and SQL Server. Since 2025, I have also been working on freelance software development projects, primarily focused on web applications, booking and appointment systems, e-commerce solutions, REST APIs, and business-oriented applications.
 
 I enjoy developing complete software solutions — from database design and backend development to frontend implementation and API integration.
 
@@ -12,9 +12,11 @@ I enjoy developing complete software solutions — from database design and back
 
 ## 👨‍💻 About Me
 
-- 🎓 Information Technology student at the **University of Novi Sad**
+- 🎓 Information Technology graduate from the **University of Novi Sad** (2026)
+- 🏢 Former Software Development Intern at **Naovis**
 - 💻 Freelance Software Developer since **2025**
 - 🌐 Interested in **Full-Stack Development**
+- 📊 Interested in **Data Engineering, Data Science and Artificial Intelligence**
 - ⚙️ Interested in **Business Information Systems and ERP solutions**
 - 🔄 Interested in **Business Process Automation and Digital Transformation**
 - 📱 Experience with Web, Android and Desktop application development
@@ -28,18 +30,25 @@ I enjoy developing complete software solutions — from database design and back
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
 ### Frontend Development
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -66,101 +75,20 @@ I enjoy developing complete software solutions — from database design and back
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🛒 Web Shop Application
+### Software Development Intern — Naovis
+**React • TypeScript • Java • Spring Boot • SQL Server • REST API • JWT**
 
-**Java | Spring Boot | Angular | MySQL | REST API**
-
-Full-stack e-commerce application developed with a separated frontend and backend architecture.
-
-Key features include:
-
-- User authentication
-- Product and category management
-- Shopping and order management
-- REST API communication between frontend and backend
-- CRUD operations
-- Relational database integration
-- Business logic implementation
-- Modular application architecture
-
-The project demonstrates practical experience in developing complete full-stack web applications using Spring Boot and Angular.
-
----
-
-### 📱 Android Web Shop Application
-
-**Java | Android Studio | Retrofit | Room | Firebase**
-
-Android e-commerce application designed for browsing products, managing a shopping cart, and creating orders.
-
-The application includes:
-
-- User authentication
-- Product browsing
-- Shopping cart management
-- User profile management
-- REST API integration using Retrofit
-- Local data persistence using Room
-- Firebase integration
-- Communication with a backend system
-
-This project demonstrates experience with Android application development and integration with external backend services.
-
----
-
-### 📚 English Practice & Assessment System
-
-**C# | .NET | WPF | SQL Server | Entity Framework Core | LINQ**
-
-Desktop application developed for managing English language tests and evaluating user knowledge.
-
-The system provides functionality for:
-
-- Creating and managing tests
-- Managing questions and answers
-- Automatic test evaluation
-- Displaying user results
-- Data validation
-- Database management
-- CRUD operations
-
-The application uses a relational SQL Server database with Entity Framework Core and LINQ.
-
-The project follows the **MVVM architectural pattern** and covers the complete application development process, including requirements analysis, database design, implementation, testing, and optimization.
-
----
-
-### 📅 Appointment & Booking Applications
-
-**Web Development | REST API | Database Integration**
-
-As part of freelance development work, I have worked on web applications focused on appointment scheduling and booking management.
-
-The applications include functionality such as:
-
-- Appointment creation and management
-- User and administrator workflows
-- Data validation
-- Backend business logic
-- Database integration
-- CRUD operations
-- REST API communication
-- Responsive user interfaces
-
-The main focus is on creating reliable and maintainable applications that support real-world business processes.
-
----
-
-## 💼 Freelance Development
+- Developed a full-stack web application for project and task management with user registration, authentication, project creation, and team collaboration
+- Implemented CRUD operations for tasks, including status and priority management, with Kanban board and Backlog views
+- Built REST APIs with Spring Boot and integrated the React frontend with backend services and a SQL Server database
+- Implemented authentication and authorization using Spring Security and JWT tokens
 
 ### Freelance Software Developer
 **2025 – Present**
 
 Working independently on software solutions for different business requirements, with a focus on web application development.
-
-Areas of work include:
 
 - Booking and appointment management applications
 - E-commerce applications
@@ -173,12 +101,90 @@ Areas of work include:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚗 AutoLux – Rent-a-Car Management Web Application
+
+**React | Vite | JavaScript | CSS | Leaflet | Motion**
+
+🔗 **Live MVP:** [autoluxserbia.netlify.app](https://autoluxserbia.netlify.app)
+
+Web application for car rental with a public-facing site and a role-based Staff Portal.
+
+- Vehicle search and filtering
+- Dynamic rental price calculation
+- Interactive 360° vehicle views
+- Favorites and contact functionality
+- Map-based location display
+- Staff Portal for managing reservations, fleet, users, reports, team access, and business settings
+- Separate Admin and Manager roles with different access permissions
+
+---
+
+### 📅 Appointment & Booking Management System
+
+**Java | Spring Boot | Angular | MySQL | REST API**
+
+Web-based solution for scheduling and managing appointments, with user and administrative functionalities.
+
+- Appointment creation and management
+- User and administrator workflows
+- Relational database design and Spring Boot REST API services
+- MySQL indexing to speed up searching for available appointment slots and reduce query response time
+- Responsive frontend integrated with the backend and database
+
+The main focus is on creating reliable and maintainable applications that support real-world business processes.
+
+---
+
+### 🛒 Web Shop Application
+
+**Java | Spring Boot | Angular | MySQL | REST API**
+
+Full-stack e-commerce application with a separated frontend and backend architecture.
+
+- User authentication
+- Product, category, and order management
+- REST communication between the Angular client and Spring Boot backend
+- CRUD operations and relational database integration
+- Focus on maintainability and scalability
+
+---
+
+### 📱 Android Web Shop Application
+
+**Java | Android Studio | Retrofit | Room | Firebase**
+
+Android e-commerce application for browsing products, managing a shopping cart, and placing orders.
+
+- Product browsing, shopping cart, and user profile management
+- REST API integration using Retrofit
+- Local data persistence using Room
+- Firebase integration
+- Communication with a backend system
+
+---
+
+### 📚 English Practice & Assessment System
+
+**C# | .NET | WPF | SQL Server | Entity Framework Core | LINQ**
+
+Desktop application for creating, managing, and completing English language tests.
+
+- Creating and managing tests, questions, and answers
+- Automatic grading and result visualization
+- Data validation and CRUD operations
+- SQL Server database with Entity Framework Core and LINQ
+- **MVVM architecture**, covering the full development lifecycle from requirements analysis and database design to testing and optimization
+
+---
+
 ## 🎓 Education
 
 ### University of Novi Sad
-**Faculty of Sciences – Information Technology**
+**Faculty of Science and Mathematics – Information Technology**
 
-Bachelor's Academic Studies  
+Bachelor's Degree (graduated)  
 2022 – 2026
 
 ---
@@ -186,8 +192,8 @@ Bachelor's Academic Studies
 ## 🌍 Languages
 
 - 🇷🇸 Serbian — Native
-- 🇬🇧 English — B2
-- 🇩🇪 German — A2
+- 🇬🇧 English — 
+- 🇩🇪 German — 
 
 ---
 
